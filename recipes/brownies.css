@@ -1,0 +1,16 @@
+* {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+    font-weight: bold;
+}
+
+img {
+   display: block;
+   margin: auto;
+   width: 500px;
+   height: auto;
+}

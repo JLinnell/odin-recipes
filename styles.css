@@ -1,0 +1,23 @@
+*{
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.recipe-list {
+    font-size: 24px;
+    list-style: none; 
+    text-align: center;
+}
+
+.ravioli,
+.brownies,
+.corn-chowder {
+    margin: 20px;
+    display: inline-block;
+}
